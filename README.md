@@ -11,7 +11,7 @@ The trained model is integrated into a **Streamlit web application** where users
 ## 🚀 Live Demo
 
 **Live Application:**  
-Add your Streamlit deployment URL here after deployment.
+🔗 https://plantguard-ai-3112.streamlit.app/
 
 ---
 
